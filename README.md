@@ -2,7 +2,7 @@
 
 Codes and corpora for paper "Dual Long Short-Term Memory Networks for Sub-Character Representation Learning" (accepted at ITNG 2018).
 
-We proposed to learn character and sub-character level representation jointly for capturing deeper level of semantic meanings. When applied to Chinese Word Segmentation as a case example, our solution achieved state-of-the-art results on both Simplified and Traditional Chinese, without extra Traditional to Simplified Chinese conversion.
+We proposed to learn character and sub-character level representations jointly for capturing deeper level of semantic meanings. When applied to Chinese Word Segmentation as a case example, our solution achieved state-of-the-art results on both Simplified and Traditional Chinese, without extra Traditional to Simplified Chinese conversion.
 
 ### Dependencies
 
