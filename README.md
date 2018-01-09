@@ -7,7 +7,7 @@ We proposed to learn character and sub-character level representations jointly f
 ### Dependencies
 
 * Python >= 3
-* [Dynet == 2.0](http://dynet.readthedocs.io/en/latest/python.html)
+* [DyNet==2.0.1](https://github.com/hankcs/multi-criteria-cws/issues/1)
 
 ## Quick Start
 
